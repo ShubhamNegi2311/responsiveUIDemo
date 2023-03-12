@@ -6,7 +6,7 @@ import {
 } from '../../utils/Metrics';
 
 export const styles = StyleSheet.create({
-  mainContainer: {flex: 1, alignItems: 'center'},
+  mainContainer: {flex: 1, alignItems: 'center', backgroundColor: '#FFFFFF'},
   headingWithoutRes: {
     fontSize: 20,
     color: '#000000',
